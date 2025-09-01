@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I am currently working on Flexible Structures, Control Systems & Robotics
-- 🌱 I’m currently learning Vibration Control, Systems Theory, Machine Learning, Finite Element Method
-- 👯 I’m looking to collaborate on Projects and Hackathons
+- 🔭 I am currently working on Flexible Structures, Control Systems & Robotics.
+- 🌱 I’m currently learning Vibration Control, Systems Theory, Machine Learning, Finite Element Method.
+- 👯 I’m looking to collaborate on Projects and Hackathons.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about  -->
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sarthak-sahoo-mechanical/)
